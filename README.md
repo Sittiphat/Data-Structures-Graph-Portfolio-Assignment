@@ -3,9 +3,9 @@ Python3 implementation of undirected and directed graph abstract data types stor
 
 Various test cases are already provided in both files. Simply run:
 ```
-$ ./d_graph.py
+$ python d_graph.py
 ```
 or
 ```
-$ ./ud_graph.py
+$ python ud_graph.py
 ```
